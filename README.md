@@ -35,6 +35,7 @@ Data Association: Users linked to their posts
 
 
 🛠️ Development Process
+
 Initialized the project using Express Generator for a well-structured setup.
 Installed key packages like:
 mongoose for MongoDB integration
@@ -44,11 +45,13 @@ Designed the database with AI assistance for scalability.
 
 
 Created:
+
 User Schema – handles user credentials
 Post Schema – stores image URLs and captions
 
 
 Implemented routes for:
+
 /register
 /login
 /upload
@@ -59,22 +62,25 @@ Integrated session and login error feedback using Passport and flash messages.
 
 
 📌 What's Next?
+
  Feed Page to show all users' posts
  Enhanced CSS Styling for a Pinterest-like UI
  Responsive design for mobile devices
  
 
 🙌 Acknowledgements
+
 Big thanks to the AI tools that helped in planning and refining the database schema and flow.
 
 
 💬 Feedback & Suggestions
+
 Your feedback means a lot!
 If you have any suggestions, spot bugs, or ideas for features you'd love to see in future updates — feel free to share. I'm always looking to improve my projects and learn more along the way!
 
 
-📬 Contact
-Saman Fatima
+📬 Contact Saman Fatima
+
 📧 Email: samanfatima166@gmail.com
 📷 Instagram: @book.worm.bliss
 
