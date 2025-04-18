@@ -94,3 +94,5 @@ If you have any suggestions, spot bugs, or ideas for features you'd love to see 
 
 
 Made with ❤️ by Saman Fatima
+
+If you like this project, please ⭐ star the repo!
