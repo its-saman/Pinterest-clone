@@ -37,7 +37,6 @@ Implemented routes for:
 /upload
 /profile
 /logout
-
 Linked users with their uploaded posts via Mongoose associations.
 Integrated session and login error feedback using Passport and flash messages.
 
@@ -45,7 +44,6 @@ Integrated session and login error feedback using Passport and flash messages.
  Feed Page to show all users' posts
  Enhanced CSS Styling for a Pinterest-like UI
  Responsive design for mobile devices
-
 
 🙌 Acknowledgements
 Big thanks to the AI tools that helped in planning and refining the database schema and flow.
