@@ -17,6 +17,7 @@ Templating Engine: EJS
 
 
 🚀 **Features**
+
 User Sign-Up & Login
 
 Profile Page with Uploaded Posts
