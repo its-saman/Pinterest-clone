@@ -96,7 +96,7 @@ If you have any suggestions, spot bugs, or ideas for features you'd love to see 
 
 📧 Email: samanfatima166@gmail.com
 
-💼 LinkedIn: Saman Fatima
+💼 LinkedIn: www.linkedin.com/in/saman-fatima0704
 
 Made with ❤️ by Saman Fatima
 
