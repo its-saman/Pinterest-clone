@@ -67,6 +67,10 @@ Post Schema – stores image URLs and captions
 Linked users with their uploaded posts via Mongoose associations.
 Integrated session and login error feedback using Passport and flash messages.
 
+📹 Demo Preview (Google Drive):
+▶️ https://drive.google.com/file/d/1R0miHfKE5urFFHsKpruF7JvIZ1P3Smyh/view?usp=sharing
+🗃️ https://drive.google.com/file/d/1-Bd6GY3TBJ9Ro4QIoz6PJiZ5Ilr2FQAh/view?usp=sharing
+
 
 📌 **What's Next?**
 
@@ -90,8 +94,7 @@ If you have any suggestions, spot bugs, or ideas for features you'd love to see 
 
 📧 Email: samanfatima166@gmail.com
 
-📷 Instagram: @book.worm.bliss
-
+💼 LinkedIn: Saman Fatima
 
 Made with ❤️ by Saman Fatima
 
