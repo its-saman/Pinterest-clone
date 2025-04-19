@@ -68,8 +68,10 @@ Linked users with their uploaded posts via Mongoose associations.
 Integrated session and login error feedback using Passport and flash messages.
 
 📹 Demo Preview (Google Drive):
-▶️ https://drive.google.com/file/d/1R0miHfKE5urFFHsKpruF7JvIZ1P3Smyh/view?usp=sharing
-🗃️ https://drive.google.com/file/d/1-Bd6GY3TBJ9Ro4QIoz6PJiZ5Ilr2FQAh/view?usp=sharing
+
+▶️Output:  https://drive.google.com/file/d/1R0miHfKE5urFFHsKpruF7JvIZ1P3Smyh/view?usp=sharing
+
+🗃️Database:  https://drive.google.com/file/d/1-Bd6GY3TBJ9Ro4QIoz6PJiZ5Ilr2FQAh/view?usp=sharing
 
 
 📌 **What's Next?**
