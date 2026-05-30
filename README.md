@@ -94,7 +94,7 @@ If you have any suggestions, spot bugs, or ideas for features you'd love to see 
 
 📬 **Contact Saman Fatima**
 
-📧 Email: samanfatima166@gmail.com
+📧 Email: fatima.saman0704@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/saman-fatima0704
 
